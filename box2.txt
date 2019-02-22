@@ -1,2 +1,3 @@
 onother file
-second line
+
+now w r going to diff command
