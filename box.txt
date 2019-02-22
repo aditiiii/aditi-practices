@@ -1,2 +1,4 @@
 git starting..
 written 2nd line...
+w r learn a lot about git..
+now we can start useing git and git hub
